@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633131932201",
+    "project_id": "smvdu-24f3a",
+    "storage_bucket": "smvdu-24f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633131932201:android:8d9c8cc3b7eaf4cdbe5a38",
+        "android_client_info": {
+          "package_name": "com.example.smvdu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633131932201-aeke6340cideu8tl772id6nbf7phbn83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxMXoH0JQzH3UjHxy9JunNg4l8Ml1mDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633131932201-aeke6340cideu8tl772id6nbf7phbn83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
